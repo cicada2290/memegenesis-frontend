@@ -1,7 +1,7 @@
-import React from "react";
-import NextHead from "next/head";
+import React from 'react'
+import NextHead from 'next/head'
 
-import { siteConfig } from "@/config/site";
+import { siteConfig } from '@/config/site'
 
 export const Head = () => {
   return (
@@ -17,5 +17,5 @@ export const Head = () => {
       />
       <link href="/favicon.ico" rel="icon" />
     </NextHead>
-  );
-};
+  )
+}

@@ -1,13 +1,13 @@
-import { Link } from "@nextui-org/react";
+import { Link } from '@nextui-org/react'
 
-import { Head } from "./head";
+import { Head } from './head'
 
-import { Navbar } from "@/components/navbar";
+import { Navbar } from '@/components/navbar'
 
 export default function DefaultLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }) {
   return (
     <div className="relative flex flex-col h-screen">
@@ -28,5 +28,5 @@ export default function DefaultLayout({
         </Link>
       </footer>
     </div>
-  );
+  )
 }
