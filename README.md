@@ -17,6 +17,7 @@ This is a template for creating applications using Next.js 14 (pages directory) 
 - [TypeScript](https://www.typescriptlang.org)
 - [Framer Motion](https://www.framer.com/motion)
 - [next-themes](https://github.com/pacocoursey/next-themes)
+- [Heroicons](https://heroicons.com/outline)
 
 ## How to Use
 
